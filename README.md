@@ -94,8 +94,8 @@ The extracted data is returned in JSON format:
 
 ##   Team
 
-* Kunal Chandak
-* Mayuresh Muluk
+* Kunal Chandak [kunalmchandak](https://github.com/kunalmchandak)
+* Mayuresh Muluk [Mayuresh28](https://github.com/Mayuresh28)
 
 ##   References
 
